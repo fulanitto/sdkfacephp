@@ -1,0 +1,13 @@
+{
+  "name": "jean/sdkfacephp",
+  "description": "Test sdk for facebook connect with php",
+  "authors": [
+    {
+      "name": "Jean",
+      "email": "jeanaxe@gmail.com"
+    }
+  ],
+  "require": {
+    "facebook/php-sdk-v4" : "~5.0"
+  }
+}
